@@ -1,0 +1,21 @@
+{
+  "name": "hasfiyat-api-client",
+  "version": "1.0.0",
+  "description": "Örnek/topluluk Node.js istemcisi — Hasfiyat gerçek zamanlı altın & döviz fiyat API'si (Harem, Hakan, Mayda dahil 11 kaynak; REST + WebSocket).",
+  "main": "hasfiyat.js",
+  "keywords": [
+    "altin-api",
+    "harem-altin-api",
+    "doviz-api",
+    "gold-price-api",
+    "turkey",
+    "fintech",
+    "hasfiyat",
+    "websocket"
+  ],
+  "homepage": "https://altinapi.hasfiyat.com",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.0.0"
+  }
+}
