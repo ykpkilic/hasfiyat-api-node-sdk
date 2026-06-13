@@ -13,8 +13,5 @@ Türkiye'nin gerçek zamanlı **kuyumcu yazılımı** [Has Fiyat](https://hasfiy
 ## Desteklenen kaynaklar
 Harem (`harem`), Hakan (`hakan`), Mayda Gold (`mayda`), Akche (`akche`), Metal (`metal`), Nadir Döviz (`nadir`), Anlık (`anlik`), Sağlamoğlu (`saglamoglu`), Agora (`agora`), Fikri Şahin (`fikri`).
 
-## API anahtarı nasıl alınır?
-[altinapi.hasfiyat.com](https://altinapi.hasfiyat.com)'da üye olun, paket seçip ödeyin, panelden API anahtarı + IP/domain whitelist ekleyin.
-
 ## Lisans
 MIT
